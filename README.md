@@ -1,1 +1,1 @@
-# Curso-de-Python-Inova-o-C-vica
+# Curso_de_python
